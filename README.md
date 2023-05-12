@@ -18,7 +18,7 @@ This is a simple console-based implementation of the popular game Snake and Ladd
 <li>If a player lands on a snake, they move down to the square at the tail of the snake.</li>
 <li>The first player to reach the end of the board wins the game.</li>
   </ol>
-# Implementation Details
+# Implementation_Details 
 <p>
 The game is built using Core Java and follows the object-oriented programming paradigm. The main classes and their responsibilities are as follows:</p>
 
