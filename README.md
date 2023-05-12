@@ -1,4 +1,4 @@
- <h2>Snake_and_Ladder_Java_Oops</h2>
+ <h1>Snake_and_Ladder_Java_Oops</h1>
 All core concepts of obejct oriented programe is  Covered in this Game.
 This is a simple console-based implementation of the popular game Snake and Ladder built using Core Java. The game supports multiple players and random dice rolls. The objective of the game is to be the first player to reach the end of the board by climbing ladders and avoiding snakes.
 
