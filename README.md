@@ -9,6 +9,7 @@ This is a simple console-based implementation of the popular game Snake and Ladd
 <li>Compile the Java files: javac *.java</li>
 <li>Run the game: java Main</li>
   </ol>
+
 # Gameplay
 <ol>
   <li>The game starts by prompting the user to enter the number of players.</li>
