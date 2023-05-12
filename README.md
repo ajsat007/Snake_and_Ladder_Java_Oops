@@ -3,10 +3,12 @@ All core concepts of obejct oriented programe is  Covered in this Game.
 This is a simple console-based implementation of the popular game Snake and Ladder built using Core Java. The game supports multiple players and random dice rolls. The objective of the game is to be the first player to reach the end of the board by climbing ladders and avoiding snakes.
 
 # Installation and Usage
-Clone the repository: git clone https://github.com/your-username/Snake-Ladder-Game.git
-Navigate to the project directory: cd Snake-Ladder-Game
-Compile the Java files: javac *.java
-Run the game: java Main
+<ol>
+  <li>Clone the repository: git clone https://github.com/your-username/Snake-Ladder-Game.git</li>
+<li>Navigate to the project directory: cd Snake-Ladder-Game</li>
+<li>Compile the Java files: javac *.java</li>
+<li>Run the game: java Main</li>
+  </ol>
 # Gameplay
 The game starts by prompting the user to enter the number of players.
 Each player takes turns rolling a six-sided dice. The number on the dice determines the number of steps the player can move on the board.
